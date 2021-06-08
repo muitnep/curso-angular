@@ -1,0 +1,21 @@
+#header {
+    position: relative;
+    width: 100%;
+    height: 50px;
+    background-color: darkgrey;
+
+}
+
+.textoTilulo {
+    position: absolute;
+    left: 12px;
+    right: -25px;
+}
+
+#titulo {
+    text-align: center;
+}
+
+#texto {
+    text-align: justify;
+}
